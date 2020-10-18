@@ -105,14 +105,15 @@ button:disabled {
   margin: 0 auto;
 }
 
-ul,
+/* ul,
 li {
   text-align: left;
   list-style: none;
-}
+} */
 
-p {
-  max-width: 500px;
+p,
+center {
+  /* max-width: 500px; */
   margin-bottom: 12px;
   line-height: 24px;
   padding: 10px 20px;
